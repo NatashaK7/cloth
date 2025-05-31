@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UPlRhns2pkGivYlIHup-gA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="dd9fdc84-39a4-4eb9-bcdf-cf616aca8074" CvTextArea="1047, 752, 76, 27" CvType="AnyWordGroup" DesignTimeRectangle="1049, 749, 75, 27" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wob_dc' tag='SPAN' type='' class='' /&gt;" Guid="09b31ce4-fe0d-4949-aa01-2eb652be22da" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Weather inrussiain Fahrehneit - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="df6c243026511a663a74781d7cc1790c.png" xmlns="">059k4olu9oEGTOMq5D2VaCg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
